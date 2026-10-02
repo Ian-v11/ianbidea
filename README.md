@@ -2,7 +2,7 @@
 
 ### 💻 Estudiante de Computación | Flutter Developer | Soporte Técnico
 
-assets/banner.png
+assets/banner.jpg
 
 ---
 
