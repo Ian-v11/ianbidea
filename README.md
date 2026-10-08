@@ -91,7 +91,7 @@ Git y GitHub
 
 | Escuela online | Maestria |
 |------------|----------|
-|Big School | Master en Desarrollo con Inteligencia Artificial
+|Big School | Master en Desarrollo con Inteligencia Artificiall
 
 |  Universidad  | Especialidad |
 |------------|----------|
